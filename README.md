@@ -56,3 +56,7 @@ Copyright (c) 2018-2019 Armin Sebastian
 
 This software is released under the terms of the GNU General Public License v3.0.
 See the [LICENSE](LICENSE) file for further information.
+
+## Scope of improvement
+
+Accuracy of the program is not upto the mark, so one thing that can be done is the audio is played twice so as to cofirm the word, hence making the program more reliable and accurate 
